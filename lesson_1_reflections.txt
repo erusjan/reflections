@@ -1,0 +1,43 @@
+How did viewing a diff between two versions of a file help you see the bug?
+
+It help me focus on the lines that changed.
+
+How could having easy acces to the entire history of a file make you efficient?
+
+If you introduce a bug, you can roll back to a previous version.
+
+git log - to view the commit history
+git diff id1 id2 - to see the diff's between two commits id1 and id2
+   operates on commits
+   rule of thumb: one commit per logical change
+
+What do you think are the pros and cons of manually choosing when to create
+a commit, like you do with Git, vs having versions automatically saved, 
+like Google docs does?
+
+Pros: each commit represents a logical unit
+      easier to browse log history
+Cons: if you forget to commit, changes are not saved
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, like others, like Google docs, treat each file separately?
+
+In programming, multiple files are often involved in a logical change.
+In simple storage, files are typically independent.
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log shows the commit history
+git diff id1 id2 shows the difference between commits id1 and id2
+
+How might using version control make you more confident to make changes that
+could break something?
+
+Version control enables you to go back to a version that worked.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+For retina-modeling, eyedec and tensoranalysis.
+
