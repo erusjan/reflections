@@ -37,3 +37,8 @@ branches are also good to communicate with yourself
    they allow you to context switch
      - work on a feature
      - work on a bug
+
+How do the diagrms help you visualize the branch structure?
+
+They show you the branches and which commits are reachable.
+
