@@ -24,3 +24,16 @@ master always shippable.
 Or, you simply branch out release_n to stabilize and then merge back 
 into master, which contains the ongoing development.
 
+More thoughts: 
+master - your main branch that always works, never breaks
+development branch
+experimental branch
+each feature can have a branch
+each bug can have a branch
+   so these can be things that you fully expect to break ... 
+      and you want to share with the public, but with the understanding that 
+      morework is needed to make it quality code
+branches are also good to communicate with yourself
+   they allow you to context switch
+     - work on a feature
+     - work on a bug
