@@ -14,4 +14,13 @@ per logical change?
 You add what you want to the staging area (with the git add command)
 and then git commit will commit just that and nothing else.
 
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+Say you have students working on their own branches and after testing they 
+can merge into the master.
+Or, you have different features to implement in parallel and you want to have
+master always shippable.
+Or, you simply branch out release_n to stabilize and then merge back 
+into master, which contains the ongoing development.
 
