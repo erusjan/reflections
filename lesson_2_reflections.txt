@@ -47,4 +47,8 @@ Why do we represent it in diagrams the way we do?
 
 Hmm ...?
 
+What are the pros and cons of Git's automatic merging vs.
+always doing merges manually?
+
+Git's automatic merging saves time.
 
