@@ -38,7 +38,13 @@ branches are also good to communicate with yourself
      - work on a feature
      - work on a bug
 
-How do the diagrms help you visualize the branch structure?
+How do the diagrams help you visualize the branch structure?
 
 They show you the branches and which commits are reachable.
+
+What is the result of merging two branches together? 
+Why do we represent it in diagrams the way we do?
+
+Hmm ...?
+
 
