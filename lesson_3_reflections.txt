@@ -7,3 +7,12 @@ automatically stau up-to-date with your remote repository?
 
 Because you don't want to push/pull broken code.
 
+Describe the differences between forks, clones, and branches.
+When would you use one insted of the other?
+
+Branches exist withon a repository, clones are copies of a repository
+and forks are copies of a repository in GitHub.
+Use branches to implement a new feature, clone to have a local copy
+to work on and fork to work on a repository for which you don't have 
+write permission.
+
